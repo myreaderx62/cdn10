@@ -1,0 +1,1871 @@
+ 
+
+<!DOCTYPE HTML>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+<meta charset="UTF-8">
+<title>毎日新聞のニュース・情報サイト</title>
+<meta name="viewport" content="width=1100,user-scalable=yes">
+<meta name="format-detection" content="telephone=no">
+<meta name="title" content="ニュースサイト">
+<meta name="keywords" content="ニュースサイト">
+<meta name="description" content="毎日新聞のニュース・情報サイトです。事件や話題、経済や政治のニュース、スポーツや芸能、映画などのエンターテインメントの最新ニュースを掲載しています。">
+<meta name="firstcreate" content="2015-10-26 18:07:10">
+<meta name="lastupdate" content="2015-12-03 18:55:36">
+<meta name="mainichi:art-type" content="all">
+<meta name="mixi-check-robots" content="noimage">
+<meta name="robots" content="noarchive"><link rel="canonical" href="https://mainichi.jp">
+
+<!--| favicon |-->
+<link rel="icon" href="https://cdn.mainichi.jp/vol1/images/icon/mainichi/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://cdn.mainichi.jp/vol1/images/icon/mainichi/apple-touch.png">
+
+<!--| open graph |-->
+<meta property="og:title" content="ニュースサイト - 毎日新聞">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:site_name" content="毎日新聞">
+<meta property="og:url" content="https://mainichi.jp">
+<meta property="og:description" content="毎日新聞のニュース・情報サイトです。事件や話題、経済や政治のニュース、スポーツや芸能、映画などのエンターテインメントの最新ニュースを掲載しています。">
+<meta property="og:image" content="https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2">
+
+<!--| twitter card |-->
+<meta name="twitter:site" content="@mainichi">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:src" content="https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2">
+<meta name="twitter:title" content="ニュースサイト">
+<meta name="twitter:description" content="毎日新聞のニュース・情報サイトです。事件や話題、経済や政治のニュース、スポーツや芸能、映画などのエンターテインメントの最新ニュースを掲載しています。">
+<meta name="twitter:url" content="https://mainichi.jp">
+<meta name="twitter:app:name:iphone" content="毎日新聞ニュース">
+<meta name="twitter:app:name:googleplay" content="毎日新聞ニュース">
+<meta name="twitter:app:url:iphone" content="https://itunes.apple.com/jp/app/mei-ri-xin-wennyusuapuri/id740514912?mt=8">
+<meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=mainichi.jp.appl">
+<meta name="twitter:app:id:iphone" content="id740514912">
+<meta name="twitter:app:id:googleplay" content="mainichi.jp.appl">
+
+<!--| Facebook |-->
+<meta property="fb:app_id" content="272200312861462">
+<meta property="article:publisher" content="https://www.facebook.com/mainichishimbun/">
+<meta property="article:author" content="https://www.facebook.com/mainichishimbun/">
+<meta name="cXenseParse:mai-fee-charging" content="">
+<meta name="cXenseParse:mai-entitlement" content="free-entry">
+<meta name="cXenseParse:recs:image" content="">
+<meta name="cXenseParse:recs:mai-cbtitle" content="ニュースサイト">
+<meta name="cXenseParse:author" content="">
+
+
+
+
+<meta name="cXenseParse:pageclass" content="frontpage">
+
+
+
+
+
+<!-- Cxense 計測タグ #4000 -->
+<script type='text/javascript'>
+document.write('<scr'+'ipt type="text/javascript" src="http'+(location.protocol==='https:'?'s://s':'://')+'cdn.cxense.com/cx.js"></scr'+'ipt>');
+</script>
+<!--<script type='text/javascript' src='https://scdn.cxense.com/cx.js'></script>-->
+<script type="text/javascript">
+var cX = window.cX = window.cX || {}; cX.callQueue = cX.callQueue || [];
+cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || [];
+cX.callQueue.push(["invoke", function() {
+var cx_prnd = cX.getCookie('prnd');
+if(cx_prnd){
+cX.setRandomId(cx_prnd);
+}
+if(!cX.getUserId(false)) {cX.setCustomParameters({"newuser":"true"}); cX.startSessionAnnotation({"newuser_S":"true"});}
+}]);
+//STG
+//cX.callQueue.push(['setSiteId', '1133979783833564085']);
+//本番
+cX.callQueue.push(['setSiteId', '9222356687186286883']);
+</script>
+
+
+
+
+
+<script src="https://yads.c.yimg.jp/js/ytag.js"></script>
+<script>
+  window.yjDataLayer = window.yjDataLayer || [];
+  function ytag() {yjDataLayer.push(arguments);}
+  ytag({"type": "ycl_cookie"});
+  ytag({"type": "ycl_cookie_extended"});
+</script>
+
+
+
+<!--| CSS BGN |-->
+<link rel="stylesheet" href="//cdn.mainichi.jp/vol1/css/pc/common_v3.css?20200415">
+<link rel="stylesheet" href="//cdn.mainichi.jp/vol1/css/pc/top_v2.css?20200610">
+<link rel="stylesheet" type="text/css" href="//cdn.mainichi.jp/vol1/brightcove/buttons.css" />
+<!--| JS BGN |-->
+<script src="//cdn.mainichi.jp/vol1/js/jquery-1.11.3.min.js"></script>
+<script src="//cdn.mainichi.jp/vol1/js/jquery.cookie.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//cdn.mainichi.jp/vol1/js/pc/html5.js"></script>
+<![endif]-->
+<!--| JS END |-->
+<!--| TOP8.js BGN |-->
+<script type="text/javascript">
+function cxSendtop8Clicked(target) {
+  if(!target || !target.text.trim()){return;}
+  var title = target.text.trim().length >= 30 ? target.text.trim().substr(0,29)+"…" : target.text.trim();
+  cX.setSiteId('9222356687186286883');
+  cX.setEventAttributes({origin:'mai-web', persistedQueryId:'fead2bc65fbe64e10dbc2f536fe1f09ba4412432'});
+  cX.sendEvent('アクション', {アクション:'top8',タイトル:title});
+};
+function onClickEvent() {
+  try {
+    var event = event || window.event;
+    if (event) {
+      var target = event.target || event.srcElement;
+      for (var i = 0; (i < 10) && (typeof target !== 'undefined') && (target); i++) {
+        if (target.nodeType === 1 && (target.nodeName === 'a' || target.nodeName === 'A') && typeof target.href === 'string') {
+          if (target.id.indexOf("headline") == 0) {
+            cxSendtop8Clicked(target);
+          }
+          break;
+        }
+        target = target.parentNode;
+      }
+    }
+  } catch (e) {}
+  return true;
+};
+window.addEventListener('mouseup',onClickEvent,false);
+</script>
+<!--| TOP8.js END |--> 
+
+
+
+<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http'+(location.protocol==='https:'?'s://s':'://')+'cdn.cxense.com/cx.js"></scr'+'ipt>');
+</script>
+
+<script async src="https://flux-cdn.com/client/mainichi/flux_mainichi_AS_TM_AT.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var pbjsFlux = pbjsFlux || {};
+  pbjsFlux.que = pbjsFlux.que || [];
+</script>
+
+<script>
+ var cX = cX || {};cX.callQueue = cX.callQueue || [];
+  cX.callQueue.push(['invoke',function(){
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/41213723/PC/top/billboard', [[1, 1], [970, 250], [728, 90]], 'PC-top-billboard').addService(
+    googletag.pubads()).setTargeting("CxSegments",cX.getUserSegmentIds({persistedQueryId:'f31589e34340c498c7c5098297d506a55eed6620'}));
+    googletag.defineSlot('/41213723/PC/top/rec1', ['fluid', [300, 250], [300, 600]], 'PC-top-rec1').addService(
+    googletag.pubads()).setTargeting("CxSegments",cX.getUserSegmentIds({persistedQueryId:'f31589e34340c498c7c5098297d506a55eed6620'}));
+    googletag.defineSlot('/41213723/PC/top/rec2', ['fluid', [300, 250]], 'PC-top-rec2').addService(
+    googletag.pubads()).setTargeting("CxSegments",cX.getUserSegmentIds({persistedQueryId:'f31589e34340c498c7c5098297d506a55eed6620'}));
+    googletag.pubads().setTargeting("url","https://mainichi.jp");
+    googletag.pubads().setTargeting("keywords","ニュースサイト");
+    googletag.pubads().setTargeting("genreBig","");
+    googletag.pubads().setTargeting("genreMedium","");
+    googletag.pubads().setTargeting("genreSmall","");
+    googletag.pubads().setTargeting("subjectCode","");
+    googletag.pubads().setTargeting("kanrenMidashi","");
+    googletag.pubads().setTargeting("category","");
+    googletag.pubads().setTargeting("articleType","free-entry");
+    googletag.pubads().setTargeting("entitlement","non-login");
+    googletag.pubads().setCentering(true);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().enableLazyLoad({fetchMarginPercent: 10, renderMarginPercent: 60, mobileScaling: 2.0});
+    var cookiesArray = document.cookie.split("; ");
+    for(var i=0; i<cookiesArray.length; i++){
+        if(cookiesArray[i].split("=")[0] == "_ga"){
+            var cid = cookiesArray[i].split("=")[1].substr(6);
+            break;
+        }
+    }
+    var ppid = (cid+cid).replace(/(\.||-||_)/g,"").substring(0,149);
+    googletag.pubads().setPublisherProvidedId(ppid);
+    googletag.enableServices();
+    pbjsFlux.que.push(function () {
+       pbFlux.prebidBidder();
+     });
+  });
+ }]);
+  //Async load of cx.js
+  (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+  e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+  t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+<script type='text/javascript'>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+{q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({ pubID: '3677',
+adServer: 'googletag', bidTimeout: 2e3
+});
+
+apstag.fetchBids({ slots: [
+{
+slotID: 'PC-top-billboard',
+slotName: '/41213723/PC/top/billboard',
+sizes: [[970, 250], [728, 90]]
+},{
+slotID: 'PC-top-rec1',
+slotName: '/41213723/PC/top/rec1',
+sizes: [[300, 250], [300, 600]]
+},{
+slotID: 'PC-top-rec2',
+slotName: '/41213723/PC/top/rec2',
+sizes: [300, 250]
+}]
+}, function(bids) {
+// trigger the first request to DFP
+googletag.cmd.push(function() {
+  readyBids.amazon = true;
+  launchAdServer();
+});
+});
+</script>
+
+ <!-- Define callback function -->
+    <script type="text/javascript">
+        var readyBids = {
+            prebid: false,
+            amazon: false,
+            google: false
+        };
+        var　failSafeTimeout = 3e3;
+        // when both APS and Prebid have returned, initiate ad request
+        var launchAdServer = function () {
+            if (!readyBids.amazon || !readyBids.prebid) {
+                return;
+            }
+            requestAdServer();
+        };
+        // sends adserver request
+        var requestAdServer = function () {
+            if (!readyBids.google) {
+                readyBids.google = true;
+                googletag.cmd.push(function () {
+                    pbjsFlux.que.push(function () {
+                        pbjsFlux.setTargetingForGPTAsync();
+                    });
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh();
+                });
+            }
+        };
+    </script>
+ <!-- /Define callback function -->
+
+<script>
+  // set failsafe timeout
+  setTimeout(function () {
+    requestAdServer();
+  }, failSafeTimeout);
+</script>
+
+
+
+<!-- Page hiding snippet (recommended) -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-5M48NC':true});
+</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5M48NC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5M48NC');</script>
+<!-- End Google Tag Manager -->
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+</head>
+
+<body>
+<p class="hide"><a href="#main">メインメニューをとばして、このページの本文エリアへ</a></p>
+<noscript>
+<p class="nojs">お使いのブラウザがJavaScriptがオフになっている場合、正しく閲覧できない場合があります。</p>
+</noscript>
+
+
+
+<!--| header BGN |-->
+<header id="top">
+
+
+<!--| header-main BGN |-->
+<div class="header-main">
+
+<!--| container BGN |-->
+<div class="container">
+
+<div class="elm-left">
+<a href="/" class="logo"><img src="https://cdn.mainichi.jp/vol1/images/pc/logo-mainichi.svg" onerror="this.src='//cdn.mainichi.jp/vol1/images/pc/logo-mainichi-ie.png';" style="width:160px;height:32px" alt="毎日新聞"></a>
+<div class="header-search">
+<form method="get" action="/search/?" enctype="application/x-www-form-urlencoded" name="hsearch" id="hsearch">
+<div id="search-input"><input type="text" name="q" class="form-input"><input type="hidden" name="s" value="date"></div>
+<div id="search-btn"><input type="submit" class="form-btn" value="検索"></div>
+</form>
+</div>
+</div>
+
+<div class="elm-right">
+<a href="https://form.mainichi.co.jp/annuncio/koudoku/form.html" class="takuhai">宅配申込</a>
+<ul class="header-iconlist">
+<li class="weather"><a href="https://mainichi.jp/weather/">天気</a></li>
+<li class="sudoku"><a href="https://mainichi.jp/sudoku/">数独</a></li>
+<li class="newspaper"><a href="http://mainichi.jp/viewer/">朝夕刊</a></li>
+<li class="kankobutsu"><a href="http://mainichi.jp/viewer/kankobutsu/">刊行物</a></li>
+<li class="mynews"><a href="https://my.mainichi.jp">マイニュース</a></li>
+</ul>
+
+<a href="/info/" target="_blank" class="sublink confirm-btn">デジタル毎日とは</a>
+<a href="/info/plan/" class="sq-btn sublink">会員登録</a>
+<a href="https://accounts.mainichi.jp/login?ru=https%3A%2F%2Fmainichi.jp%2F%3Finb%3Dff%2Ffavicon.ico" id="login-btn" class="sq-btn sublink">ログイン</a>
+
+
+</div>
+
+</div>
+<!--| container END |-->
+</div>
+<!--| header-main END |--> 
+ 
+<!--| main-navi BGN |-->
+<div id="mainNavi" class="main-navi">
+<!--| container BGN |-->
+<div class="container">
+<ul>
+<li class="active"><a href="//mainichi.jp">トップ</a></li>
+<li><a href="//mainichi.jp/shakai/">社会</a></li>
+<li><a href="//mainichi.jp/seiji/">政治</a></li>
+<li><a href="//mainichi.jp/biz/">経済</a></li>
+<li><a href="//mainichi.jp/world/">国際</a></li>
+<li><a href="//mainichi.jp/science/">サイエンス</a></li>
+<li><a href="//mainichi.jp/sports/">スポーツ</a></li>
+<li><a href="//mainichi.jp/opinion/">オピニオン</a></li>
+<li><a href="//mainichi.jp/culture/">カルチャー</a></li>
+<li><a href="//mainichi.jp/life/">ライフ</a></li>
+<li><a href="//mainichi.jp/edu/">教育</a></li>
+<li><a href="//mainichi.jp/area/">地域</a></li>
+<li><a href="//mainichi.jp/english/">English</a></li>
+<li><a href="http://mainichi.jp/viewer">デジタル紙面</a></li>
+<li><a href="//mainichi.jp/premier/">プレミア</a></li>
+<li><a href="//mainichi.jp/photography/">写真</a></li>
+<li><a href="https://video.mainichi.jp/">動画</a></li>
+</ul>
+</div>
+<!--| container END |-->
+</div>
+<!--| main-navi END |-->
+
+<div class="sub-navi">
+<!--| container BGN |-->
+<div class="container">
+<ul>
+<li class="active"><a href="//mainichi.jp">総合</a></li>
+<li><a href="//mainichi.jp/flash//">速報</a></li>
+<li><a href="//mainichi.jp/shimen/tokyo/m/">朝刊</a></li>
+<li><a href="//mainichi.jp/shimen/tokyo/e/">夕刊</a></li>
+<li><a href="//mainichi.jp/sunday/">サンデー毎日</a></li>
+<li><a href="//mainichi.jp/nichiyo-club/">日曜くらぶ</a></li>
+<li><a href="//mainichi.jp/info/wsj/">ウォール・ストリート・ジャーナル</a></li>
+<li><a href="//mainichi.jp/feature/special/">デジタル毎日スペシャル</a></li>
+</ul>
+</div>
+<!--| container END |-->
+</div>
+<!--| sub-navi END |-->
+ 
+<!--| covid19-navi BGN |-->
+<div id="covid19Navi" class="covid19-navi no-print">
+    <!--| container BGN |-->
+    <div class="container">
+        <p><a href="/covid19/">新型コロナウイルス</a></p>
+        <ul>
+            <li><a href="/covid19/" ontouchstart="">感染の状況</a></li>
+            <li ><a href="/ch200155341i/">ニュース</a></li>
+            <li ><a href="/graphs/20200401/hpj/00m/040/010000g/1">図解でわかる</a></li>
+            <li ><a href="/covid19-interview/">新型コロナを考える</a></li>
+            <li ><a href="/ch200459342i/">感染症と闘う</a></li>
+            <li ><a href="/covid19-message/">いま、最前線で働くあなたへ</a></li>
+        </ul>
+    </div>
+    <!--| container END |-->
+</div>
+<!--| covid19-navi END |-->
+
+</header>
+<!--| header END |-->
+
+ 
+<!--| ad BGN |-->
+<div class="ad ad-center mb-m">
+<!-- PC-top-billboard -->
+<div id='PC-top-billboard'>
+<script>
+cX.callQueue.push(['invoke',function(){
+googletag.cmd.push(function() { googletag.display('PC-top-billboard'); });
+}]);
+</script>
+</div>
+</div>
+<!--| ad END |--> 
+
+<!--| container BGN |-->
+<div class="container">
+
+<!--| main BGN |-->
+<div id="main">
+
+<!--| 地震情報 BGN |-->
+<!--| 地震情報 END |--> 
+ 
+
+<!--| date-box BGN |-->
+<div class="date-box">
+<p class="date">2020年<span class="num">9</span>月<span class="num">7</span>日（月）</p> 
+<p class="sub-txt">
+<a href="https://mainichi.jp/2020jimintousousaisen/">自民党総裁選</a>
+<a href="https://mainichi.jp/abeseiken/">検証・安倍政権</a>
+<a href="https://mainichi.jp/ch200661726i/">大阪都構想</a>
+<a href="https://mainichi.jp/ch200661586i/">検証＋コロナ</a>
+<a href="https://mainichi.jp/ama-baseball/kurojishi/">都市対抗野球</a>
+</p>
+ 
+</div>
+<!--| date-box BGN |-->
+
+<!--| topnews BGN |-->
+<div class="topnews-box section col-set">
+    
+
+
+
+
+<!--| main-box BGN |-->
+<div class="main-box">
+
+<p class="headline-top">
+    <a id="headlineList01" class="" href="//mainichi.jp/articles/20200906/k00/00m/010/222000c">岸田氏と石破氏、「継承」路線との違い強調</a>
+</p>
+ 
+<div class="photo-box">
+<a id="headlinePhoto" href="https://mainichi.jp/graphs/20200906/hpj/00m/040/002000g/7">
+<div class="thumb img"><amp-img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hpj00m040014000q/4.jpg?1" alt="" class="horizontal-photo" 
+ width="200" height="134" layout="intrinsic"></amp-img><div class="img-mask"></div></div>
+<span class="midashi ">「密」避けて避難</span>
+</a>
+</div>
+ 
+<ul class="list-typeA">
+<li><a id="headlineList02" class="icon_plus" href="//mainichi.jp/articles/20200906/k00/00m/040/213000c"><span>医療関係者が国のリーダーに望むコロナ対策</span></a></li>
+<li><a id="headlineList03" class="" href="//mainichi.jp/articles/20200906/k00/00m/040/225000c"><span>九州全域が暴風域に 169万人に避難指示</span></a></li>
+<li><a id="headlineList04" class="" href="//mainichi.jp/articles/20200906/k00/00m/040/214000c"><span>「かなりの被害を覚悟」九州各地で住民緊迫</span></a></li>
+<li><a id="headlineList05" class="" href="//mainichi.jp/articles/20200906/k00/00m/040/209000c"><span>新たに450人感染 東京の「夜の街」関連はゼロ</span></a></li>
+<li><a id="headlineList06" class="icon_plus" href="//mainichi.jp/articles/20200906/k00/00m/040/204000c"><span>都構想 反対の自民支持層にも賛成広がる</span></a></li>
+<li><a id="headlineList07" class="" href="//mainichi.jp/articles/20200906/k00/00m/030/239000c"><span>中国の宇宙船着陸 打ち上げに厳しい箝口令</span></a></li>
+<li><a id="headlineList08" class="" href="//mainichi.jp/articles/20200907/k00/00m/050/002000c"><span>F1 アルファタウリ・ホンダのガスリーが初V</span></a></li>
+<li><a id="headlineList09" class="" href="//mainichi.jp/koshien/articles/20200907/k00/00m/050/001000c"><span>プロ志望高校生練習会 スカウト「今後も継続を」</span></a></li>
+</ul> 
+
+<div class="ad pr site_adv">
+<div id="insertAdSpaceBeforeThis_0000000164108dba" style="display:none"></div>
+<script type="text/javascript"> var cX = cX || {}; cX.callQueue = cX.callQueue || []; cX.callQueue.push(['insertAdSpace', { adSpaceId:'0000000164108dba',width:'100%',height:0, renderTemplateUrl: 'https://cdn.cxpublic.com/mai-ad-render-pc-textAd.html'} ]); </script>
+</div>
+ 
+
+</div>
+<!--| main-box END |-->
+
+
+<!--| sub-box BGN |-->
+<div class="sub-box">
+
+<!--| box BGN |-->
+<div class="box">
+<div class="header-box">
+<ul class="inline-list">
+<li class="link-btn list"><a href="/flash/1">一覧ページへ</a></li>
+</ul>
+<h2><a href="/flash/">速報</a></h2>
+</div>
+<ul class="flash">
+<li><a href="//mainichi.jp/articles/20200907/k00/00m/050/002000c">
+<span class="time">00:15</span>
+<span class="midashi ">F1、アルファタウリ・ホンダのガスリーが初…</span>
+</a></li>
+<li><a href="//mainichi.jp/koshien/articles/20200907/k00/00m/050/001000c">
+<span class="time">00:07</span>
+<span class="midashi ">「来年も続けて」　プロ志望高校生合同練習会…</span>
+</a></li>
+<li><a href="//mainichi.jp/articles/20200906/k00/00m/030/246000c">
+<span class="time">22:43</span>
+<span class="midashi ">香港で抗議デモ　警察が強制排除、280人以…</span>
+</a></li>
+<li><a href="//mainichi.jp/articles/20200906/k00/00m/040/244000c">
+<span class="time">22:38</span>
+<span class="midashi ">上智大名誉教授のA・デーケンさん死去　88…</span>
+</a></li>
+<li><a href="//mainichi.jp/articles/20200906/k00/00m/030/243000c">
+<span class="time">22:35</span>
+<span class="midashi ">ベラルーシで4週連続デモ　選挙1カ月、国民…</span>
+</a></li>
+<li><a href="//mainichi.jp/articles/20200906/k00/00m/030/238000c">
+<span class="time">22:34</span>
+<span class="midashi ">出稼ぎ労働者から母国への送金額急減　新型コ…</span>
+</a></li>
+<li><a href="//mainichi.jp/articles/20200906/k00/00m/030/239000c">
+<span class="time">22:27</span>
+<span class="midashi ">中国のシャトル型宇宙船、飛行終え着陸　打ち…</span>
+</a></li>
+<li><a href="//mainichi.jp/articles/20200906/k00/00m/050/224000c">
+<span class="time">21:55</span>
+<span class="midashi ">木製バットも何のその　立命大1年生1番・桃…</span>
+</a></li>
+</ul> 
+</div>
+<!--| box BGN |-->
+
+
+
+</div>
+<!--| sub-box END |-->
+
+<!--| pickup BGN |-->
+<div class="pickup">
+<ul class="list-typeG">
+
+<li class="col4">
+    <a href="//mainichi.jp/premier/politics/articles/20200903/pol/00m/010/005000c" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/03/20200903pol00m010001000p/0c6.jpg?1" alt="民主党全国大会のために特設された米東部デラウェア州ウィルミントンの会場で話す副大統領候補のカマラ・ハリス上院議員＝2020年8月19日、AP" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_politics">米　女性大統領誕生への動きは加速するか</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+    <a href="//mainichi.jp/premier/business/articles/20200904/biz/00m/020/020000c" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/04/20200904biz00m020008000p/0c6.jpg?2" alt="リマの歩行者天国「ラ・ウニオン通り」は地元の買い物客でごった返していた（写真は筆者撮影）" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_business">ペルー首都リマ「フジモリ大統領」が治めた国のその後</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+    <a href="//mainichi.jp/premier/health/articles/20200902/med/00m/100/014000c" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/02/20200902med00m100010000p/0c6.jpg?1" alt="　" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_health">コロナに負けずにシニアが健康を保つには</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+  <a href="//mainichi.jp/articles/20200904/wsj/00m/020/012000c" class="clr" id="pickup_wsj" target="_blank">
+  <div class="img">
+  <amp-img src="//cdn.mainichi.jp/vol1/images/pc/wsj_thumb.png" width="175" height="117" layout="responsive" alt="THE WALL STREET JOURNAL"></amp-img><div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_wsj">＜WSJ日本版＞開発進むロボット船 自動運転車に先行か</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/103000c" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm007030169000p/0c6.jpg?1" alt="都市封鎖の体験を語ってくれた南慎一郎さん（右）と杜若政彦さん＝中国湖北省武漢市のイオンモールで7月、工藤哲撮影" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_plus">武漢の命綱守ったイオン現地責任者</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+    <a href="//mainichi.jp/articles/20200907/ddm/013/040/047000c" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm013100129000p/0c6.jpg?1" alt="" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_plus">財布は夫婦それぞれで</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+    <a href="//mainichi.jp/articles/20200907/ddm/013/070/021000c" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm013070128000p/0c6.jpg?1" alt="将棋の杉本昌隆八段＝名古屋市東区で２０２０年７月３０日午後５時、細川貴代撮影" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_plus">学校とわたし＝藤井王位の師匠・杉本昌隆さん</span>
+</div> 
+</a>
+</li>
+
+
+<li class="col4">
+    <a href="https://mainichi.jp/premier/tokutoku/" class="clr">
+    <div class="img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/04/20200904tk200m100001000q/0c6.jpg?1" alt="" width="175" height="117" layout="intrinsic"></amp-img>
+        <div class="img-mask"></div>
+  </div>
+<div class="txt-box">
+<span class="midashi icon_tokutoku">話題の書籍プレゼント</span>
+</div> 
+</a>
+</li>
+
+</ul>
+ 
+</div>
+<!--| pickup END |-->
+
+<!--| box-gry BGN |-->
+<div class="box-gry">
+<ul>
+<li><a href="/editorial/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_shasetsu.png" alt="社説"></a>
+</li>
+<li><a href="/yoroku/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_yoroku.png" alt="余録"></a>
+</li>
+<li><a href="/kishanome/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_kishanome.png" alt="記者の目"></a>
+</li>
+<li><a href="/senryu/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_senryu.png" alt="万能川柳"></a>
+</li>
+<li><a href="/reader/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_kimochi.png" alt="女の気持ち"></a>
+</li>
+<li><a href="/wide/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_wide.png" alt="特集ワイド"></a>
+</li>
+<li><a href="/naruhodori/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_naruhodori.png" alt="なるほドリ"></a>
+</li>
+<li><a href="/sodan/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_sodan.png" alt="人生相談"></a>
+</li>
+<li><a href="/database/">
+<img src="//cdn.mainichi.jp/vol1/images/pc/label_database.png" alt="記事データベース"></a>
+</li>
+</ul>
+</div>
+<!--| box-gry END |-->
+
+</div>
+<!--| topnews END |-->
+
+
+
+<!--| visual BGN |-->
+<section class="visual-box col-set">
+
+<!--| col2 BGN |-->
+
+<div class="col2">
+<h3 class="movie"><a href="https://video.mainichi.jp/">動画ニュース</a></h3>
+
+<div id="slide-video" class="inner slideOn">
+    
+    <div class="slide-video-img img">
+        <a href="https://video.mainichi.jp/detail/video/6188198899001?autoStart=true">
+            <div class="thum-img">
+                <img src="https://cf-images.ap-northeast-1.prod.boltdns.net/v1/static/5490902205001/1918df20-be6f-4a08-882f-c4851564caef/8e15c5a7-f2c8-4692-8e35-a42e9e07d312/640x360/match/image.jpg" alt="">
+                <div class="img-mask"></div>
+                <div class="play" id="play"></div>
+            </div>
+            <p class="midashi">小型クルーザーに衝突され、遊泳の男児死亡　3人重軽傷　福島・猪苗代湖</p>
+        </a>
+    </div>
+
+    </div>
+
+<script>
+    const slide_video = document.getElementById('slide-video');
+    const target_play = document.getElementById('play');
+
+    //ON
+    slide_video.addEventListener('mouseenter', e => {
+        target_play.classList.add("video-hover");
+    });
+
+    //OUT
+    slide_video.addEventListener('mouseleave', e => {
+        target_play.classList.remove("video-hover");
+    });
+</script>
+
+
+<style>
+
+    #slide-video .midashi {
+        clear: both;
+        padding: 2px 0 0;
+        font-size: 87.5%;
+        text-align: left;
+        overflow: hidden;
+        -o-text-overflow: ellipsis;
+        -webkit-text-overflow: ellipsis;
+        -moz-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    /* .playからの相対配置 */
+    .thum-img {
+        position: relative;
+    }
+
+    .play {
+        transition: .2s;
+        font-size: 60px;
+        position: relative;
+        width: 1.4em;
+        height: 1.4em;
+        border: 0.1em solid rgba(121, 121, 121, 0.1);
+        background-color: rgba(0, 0, 0, .6);
+        border-radius: 100%;
+
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        margin: 0;
+        padding: 0;
+
+    }
+
+    /* マーク */
+    .play::before {
+        content: "";
+        position: absolute;
+        top: 0.4em;
+        left: 0.5em;
+        width: 0;
+        height: 0;
+        border-top: 0.2em solid transparent;
+        border-left: 0.3em solid #ffffff;
+        border-bottom: 0.2em solid transparent;
+    }
+
+    .video-hover {
+        background-color: rgba(0, 121, 196);
+        /* border: 0.1em solid rgba(0, 121, 196); */
+    }
+
+    .thum-img img {
+        transition: .2s;
+        width: 100%;
+    }
+</style> 
+</div>
+<!--| col2 END |-->
+
+<!--| col2 BGN |-->
+<div class="col2">
+<h3 class="photo"><a href="/photography/">写真特集</a></h3>
+<!--| slide BGN |-->
+<div id="slide" class="inner slideOn">
+<ul id="slide-list">
+<li style="display:none;">
+<div class="slide-img img">
+<a href="//mainichi.jp/graphs/20200823/hpj/00m/040/009000g">
+<div class="thum-img"><img src="https://cdn.mainichi.jp/vol1/2020/08/23/20200823hpj00m040079000q/0c6.jpg?1" alt=""><div class="img-mask"></div></div>
+<p class="midashi">東日本大震災：あの時の「きょう」９月７日　</p>
+</a>
+</div>
+</li>
+<li style="display:none;">
+<div class="slide-img img">
+<a href="//mainichi.jp/graphs/20200906/hpj/00m/040/004000g">
+<div class="thum-img"><img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hpj00m040040000q/0c6.jpg?1" alt=""><div class="img-mask"></div></div>
+<p class="midashi">Weekly Select　写真で振り返る１週間　</p>
+</a>
+</div>
+</li>
+<li style="display:none;">
+<div class="slide-img img">
+<a href="//mainichi.jp/graphs/20200906/hpj/00m/050/001000g">
+<div class="thum-img"><img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hpj00m050001000q/0c6.jpg?1" alt=""><div class="img-mask"></div></div>
+<p class="midashi">スポーツ：佐藤が1500で大会新、和田は日本新　パラ陸上日本選手権</p>
+</a>
+</div>
+</li>
+<li style="display:none;">
+<div class="slide-img img">
+<a href="//mainichi.jp/graphs/20200906/hpj/00m/040/003000g">
+<div class="thum-img"><img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hpj00m040026000q/0c6.jpg?1" alt=""><div class="img-mask"></div></div>
+<p class="midashi">社会：北海道胆振東部地震から2年　「前向きにまた1年を」　遺族ら冥福祈る</p>
+</a>
+</div>
+</li>
+<li style="display:none;">
+<div class="slide-img img">
+<a href="//mainichi.jp/graphs/20200906/hpj/00m/040/002000g">
+<div class="thum-img"><img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hpj00m040008000q/0c6.jpg?1" alt=""><div class="img-mask"></div></div>
+<p class="midashi">台風：台風10号、鹿児島・宮崎・熊本を暴風域に巻き込み北上</p>
+</a>
+</div>
+</li>
+</ul>
+</div>
+<!--| slide END |--> 
+</div>
+<!--| col2 END |-->
+
+</section>
+<!--| visual END |-->
+
+
+
+<!--| news BGN |-->
+<section class="news-box">
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/shakai/">社会</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/articles/20200907/ddm/001/040/122000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm001040131000p/0c6.jpg?1" width="400" height="268" alt="" class="horizontal-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_plus">九州６県、台風１０号接近　１６９万人に避難指示</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/001/040/122000c" class="icon_plus"><span class="midashi">九州６県、台風１０号接近　１６９万人に避難指示</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/001/040/121000c" class="icon_plus"><span class="midashi">台風１０号　東海道新幹線、運転区間変更　きょう上下１００本</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/001/040/095000c" class="icon_plus"><span class="midashi">台風１０号　関係閣僚会議で緊密連携を指示　首相</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/003/040/088000c" class="icon_plus"><span class="midashi"><span class="keyword">仲畑流万能川柳</span>瀬戸際が終われば次は正念場</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/040/087000c" class="icon_plus"><span class="midashi">出稼ぎ送金２割減　労働者にコロナ打撃　１８年比・アジア開銀予測</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/seiji/">政治</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/articles/20200907/ddm/001/010/092000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm001010134000p/0c6.jpg?1" width="400" height="266" alt="" class="vertical-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_plus">総裁選　コロナ・経済論争　岸田・石破氏、菅氏との違い強調　あす告示</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/001/010/092000c" class="icon_plus"><span class="midashi">総裁選　コロナ・経済論争　岸田・石破氏、菅氏との違い強調　あす告示</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/001/010/090000c" class="icon_plus"><span class="midashi">枝野・泉氏が初論戦　合流新党代表選きょう告示</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/002/010/066000c" class="icon_plus"><span class="midashi"><span class="keyword">焦点</span>自民総裁選　安倍路線「継承」ＶＳ「変革」　石破氏、所得再分配重視／岸田氏、格差是正目指す／菅氏、成果や実績強調</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/002/010/054000c" class="icon_plus"><span class="midashi">新首相選出直後、衆院解散に期待　自民総務会長</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/002/010/049000c" class="icon_plus"><span class="midashi"><span class="keyword">首相日々</span>６日</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/biz/">経済</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/premier/business/articles/20200904/biz/00m/020/020000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/04/20200904biz00m020008000p/0c6.jpg?2" width="400" height="267" alt="" class="horizontal-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_premier">ペルー首都リマ「フジモリ大統領」が治めた国のその後</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/premier/business/articles/20200904/biz/00m/020/020000c" class="icon_premier"><span class="midashi"><span class="keyword">藻谷浩介の世界「来た・見た・考えた」</span>ペルー首都リマ「フジモリ大統領」が治めた国のその後</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/premier/business/articles/20200901/biz/00m/020/004000c" class="icon_premier"><span class="midashi"><span class="keyword">人生１００年時代のライフ＆マネー</span>共働き夫婦の住宅ローン「借りすぎリスク」に注意</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/premier/business/articles/20200903/biz/00m/020/010000c" class="icon_premier"><span class="midashi"><span class="keyword">メディア万華鏡</span>なぜ売れる? 「育ちがいい人」を読んでわいた疑問</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/008/020/037000c" class="icon_plus"><span class="midashi"><span class="keyword">インタビュー・最前線</span>岩谷産業　間島寛社長</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/008/020/032000c" class="icon_plus"><span class="midashi"><span class="keyword">けいざいフラッシュ</span>世界の化粧品技術が集結</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/world/">国際</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/097000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm007030138000p/0c6.jpg?1" width="400" height="268" alt="" class="horizontal-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_plus">中印にらみ合い長期化　「両軍１０万人配置」報道も　国境地帯</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/097000c" class="icon_plus"><span class="midashi">中印にらみ合い長期化　「両軍１０万人配置」報道も　国境地帯</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/093000c" class="icon_plus"><span class="midashi">香港民主派、板挟み　政府、留任「容認」×支持者、「辞任」主張　立法会議員</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/091000c" class="icon_plus"><span class="midashi">デモ２８０人逮捕　違法集会容疑など　香港</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/081000c" class="icon_plus"><span class="midashi">正恩氏、陣頭指揮　台風９号被災地　現地党幹部解任も</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/103000c" class="icon_plus"><span class="midashi">中国・武漢の命綱守った　イオン現地責任者のコロナ禍　細心、従業員感染予防</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/sports/">スポーツ</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/articles/20200907/ddm/035/050/120000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm035050151000p/0c6.jpg?1" width="400" height="267" alt="" class="vertical-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_plus">プロ野球　ロッテ４－２ソフトバンク　２１歳、成長の一発　ロッテ４番安田２ラン</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/035/050/120000c" class="icon_plus"><span class="midashi">プロ野球　ロッテ４－２ソフトバンク　２１歳、成長の一発　ロッテ４番安田２ラン</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/035/050/119000c" class="icon_plus"><span class="midashi">プロ野球　西武４－２日本ハム</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/035/050/118000c" class="icon_plus"><span class="midashi">プロ野球　西武４－２日本ハム　西武・松本２勝目</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/035/050/115000c" class="icon_plus"><span class="midashi">プロ野球　ＤｅＮＡ８－５広島　頼れる３１歳、ＤｅＮＡ・宮崎４打点</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/035/050/117000c" class="icon_plus"><span class="midashi">プロ野球　オリックス９－６楽天</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/science/">サイエンス</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/articles/20200907/ddm/041/040/053000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/07/20200907ddm041040166000p/0c6.jpg?1" width="400" height="266" alt="" class="vertical-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_plus">新型コロナ　都「夜の街」感染、３カ月ぶりゼロ</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/040/087000c" class="icon_plus"><span class="midashi">出稼ぎ送金２割減　労働者にコロナ打撃　１８年比・アジア開銀予測</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/040/083000c" class="icon_plus"><span class="midashi">新型コロナ　インド感染者数、１日で９万６３２人</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/041/010/079000c" class="icon_plus"><span class="midashi"><span class="keyword">「最長」のおわり</span>コロナ対策、ぶれないで　医療関係者、国のリーダーに望む</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/041/040/053000c" class="icon_plus"><span class="midashi">新型コロナ　都「夜の街」感染、３カ月ぶりゼロ</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/007/030/103000c" class="icon_plus"><span class="midashi">中国・武漢の命綱守った　イオン現地責任者のコロナ禍　細心、従業員感染予防</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/culture/">カルチャー</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/articles/20200907/ddm/013/070/038000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906ddm014070161000p/0c6.jpg?1" width="400" height="268" alt="" class="horizontal-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_plus">／３９１　阿部和重　写真・相川博昭</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/003/040/088000c" class="icon_plus"><span class="midashi"><span class="keyword">仲畑流万能川柳</span>瀬戸際が終われば次は正念場</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/018/200/040000c" class="icon_plus"><span class="midashi"><span class="keyword">“耳寄り”な話・ＴＢＳラジオ</span>井上芳雄のトーク、生配信で</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/018/200/044000c" class="icon_plus"><span class="midashi"><span class="keyword">視聴室</span>嫌われ監察官　音無一六　炎上の裏の真実</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/013/070/038000c" class="icon_plus"><span class="midashi"><span class="keyword">ブラック・チェンバー・ミュージック</span>／３９１　阿部和重　写真・相川博昭</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddm/014/040/036000c" class="icon_plus"><span class="midashi"><span class="keyword">毎日俳壇</span>鷹羽狩行・選</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+<!--| チャンネル BGN |-->
+<h3><a href="//mainichi.jp/life/">ライフ</a></h3>
+<div class="photo-box">
+    <a href="//mainichi.jp/premier/business/articles/20200904/biz/00m/020/020000c">
+        <div class="thumb img">
+            <amp-img src="https://cdn.mainichi.jp/vol1/2020/09/04/20200904biz00m020008000p/0c6.jpg?2" width="400" height="267" alt="" class="horizontal-photo" layout="responsive"></amp-img>            <div class="img-mask"></div>
+        </div>
+        <span class="midashi icon_premier">ペルー首都リマ「フジモリ大統領」が治めた国のその後</span>
+    </a>
+</div>
+
+<ul class="list-typeA">
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddl/k14/040/054000c" class="icon_plus"><span class="midashi">ＡＩ活用「３密」回避　川崎市が避難所運営実験　／神奈川</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddl/k14/040/048000c" class="icon_plus"><span class="midashi">国交省「自転車通勤推進企業」　茅ケ崎市役所を宣言企業に認定　／神奈川</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/articles/20200907/ddl/k10/040/120000c" class="icon_plus"><span class="midashi">クマに襲われて登山の男性重傷　中之条の蟻川岳　／群馬</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/premier/business/articles/20200904/biz/00m/020/020000c" class="icon_premier"><span class="midashi"><span class="keyword">藻谷浩介の世界「来た・見た・考えた」</span>ペルー首都リマ「フジモリ大統領」が治めた国のその後</span></a>
+</li>
+<li>
+    <a href="//mainichi.jp/premier/health/articles/20200902/med/00m/100/014000c" class="icon_premier"><span class="midashi"><span class="keyword">医療プレミア特集</span>コロナに負けずにシニアが健康を保つには</span></a>
+</li>
+</ul>
+<!--| チャンネル END |-->
+ 
+</section>
+<!--| news END |-->
+
+
+
+<!--| series BGN |-->
+<section class="series-box">
+<h2><span>チャンネル・ピックアップ</span><span class="small">編集部おすすめのチャンネル</span></h2>
+
+<div class="box">
+<ul class="col-set">
+<li class="col3">
+<dl>
+<dt><a href="/journalism/">毎日ジャーナリズム</a></dt>
+<dd><ul>
+<li><a href="https://mainichi.jp/listening/">あなたの声を聞きたい</a></li>
+<li><a href="https://mainichi.jp/hirakareta/">開かれた新聞委員会</a></li>
+<li><a href="https://mainichi.jp/ch150912577i/%E8%AB%96%E7%82%B9">論点</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li class="col3"><dl>
+<dt><a href="/reporter/">スペシャルリポート</a></dt>
+<dd><ul>
+<li><a href="https://mainichi.jp/premier/politics/articles/20200826/pol/00m/010/011000c">「マイノリティー」香港で生きる</a></li>
+<li><a href="https://mainichi.jp/premier/politics/articles/20200823/pol/00m/010/015000c">ブラジル大統領、なぜ支持率上昇</a></li>
+<li><a href="https://mainichi.jp/articles/20200901/k00/00m/040/116000c">黒柳徹子さんと手話狂言の出会い</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li class="col3"><dl>
+<dt><a href="/sodan/">人生相談</a></dt>
+<dd><ul>
+<li><a href="https://mainichi.jp/articles/20200904/ddm/013/070/009000c">「いい子」でいること窮屈に</a></li>
+<li><a href="https://mainichi.jp/articles/20200830/ddm/013/070/004000c">ワンオペ育児がつらい</a></li>
+<li><a href="https://mainichi.jp/articles/20200829/ddm/013/070/022000c">妻が「疲れた」と言う</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+
+<ul class="inline-list">
+	<li><a href="https://mainichi.jp/ch181221022i/">解説ライブ まいもく</a></li>
+	<li><a href="https://mainichi.jp/ch200459214i/%E7%8C%AB%E3%83%AA%E3%82%BA%E3%83%A0">猫リズム</a></li>
+	<li><a href="https://mainichi.jp/classic/">クラシックナビ</a></li>
+	<li><a href="https://mainichi.jp/reporter/">スペシャルリポート</a></li>
+	<li><a href="https://mainichi.jp/univ/">@大学</a></li>
+	<li><a href="https://mainichi.jp/ch150903111i/%E7%A7%91%E5%AD%A6%E3%81%AE%E6%A3%AE">科学の森</a></li>
+	<li><a href="https://mainichi.jp/nichiyo-club/">日曜くらぶ</a></li>
+	<li><a href="https://mainichi.jp/ch200459997i/">シリーズ・疫病と人間</a></li>
+	<li><a href="https://mainichi.jp/ch151143788i/%E6%A4%9C%E8%A8%BC">検証</a></li>
+	<li><a href="https://mainichi.jp/maisho/">毎日小学生新聞</a></li>
+	<li><a href="https://mainichi.jp/ch160190415i/%E6%86%82%E6%A5%BD%E5%B8%B3">憂楽帳</a></li>
+	<li><a href="https://mainichi.jp/staffreport/">デジタル毎日スタッフリポート</a></li>
+	<li><a href="https://mainichi.jp/contribution/">投稿フォーム</a></li>
+</ul>
+</div> 
+</section>
+<!--| series END |-->
+
+
+</div>
+<!--| main END |-->
+
+
+
+
+
+<!--| sub BGN |-->
+<div id="sub">
+
+<!--| ad BGN |-->
+<aside class="ad">
+<!-- PC-top-rec1 -->
+<div id='PC-top-rec1'>
+<script>
+cX.callQueue.push(['invoke',function(){
+googletag.cmd.push(function() { googletag.display('PC-top-rec1'); });
+}]);
+</script>
+</div>
+ 
+</aside>
+<!--| ad END |-->
+
+<!--| apply BGN |-->
+<ul class="inline-list apply-link">
+<li class="listL"><a href="https://form.mainichi.co.jp/annuncio/koudoku/form.html" target="_blank" title="別ウインドウで開きます">新聞宅配申し込み</a></li>
+<li class="listR"><a href="/info/plan/">デジタル申し込み</a></li>
+</ul>
+<!--| apply END |--> 
+
+<!--| sns BGN |-->
+<dl class="accounts">
+<dt><a href="/social/">毎日新聞のアカウント</a></dt>
+<dd>
+<ul class="inline-list">
+<li class="fb btn-sns"><a href="https://www.facebook.com/mainichishimbun/" target="_blank" title="Facebookを別ウインドウで開きます"><span></span></a></li>
+<li class="tw btn-sns"><a href="/social/" title="twitter"><span></span></a></li>
+<li class="rss btn-sns"><a href="/rss/" title="RSS">RSS<span></span></a></li>
+</ul>
+</dd>
+</dl>
+<!--| sns END |--> 
+<link rel="stylesheet" href="//cdn.mainichi.jp/vol1/contents/covid19/css/style_covid19_widget_v2.css" />
+<a href="/covid19/" class="widget-covid19-link">
+<section class="widget-covid19">
+<h2 class="widget-covid19-title">新型コロナウィルス国内感染の状況</h2>
+<span class="widget-covid19-date">9月06日0:00時点</span>
+<div class="widget-covid19-row">
+<div class="widget-covid19-box">
+<span class="widget-covid19-box-label">感染者数</span>
+<span class="widget-covid19-box-number-large">70592</span>
+</div>
+<div class="widget-covid19-box">
+<span class="widget-covid19-box-label">退院者数</span>
+<span class="widget-covid19-box-number-large">61357</span>
+</div>
+<div class="widget-covid19-box">
+<span class="widget-covid19-box-label">死亡者数</span>
+<span class="widget-covid19-box-number-large">1356</span>
+</div>
+</div>
+<div class="widget-covid19-note"><span class="widget-covid19-note-label">クルーズ船</span><span class="widget-covid19-note-txt">感染者数 712</span><span class="widget-covid19-note-txt">死亡者数 13</span></div>
+<div class="widget-button" href="/covid19/"><span>特集ページへ</span><span class="widget-covid19-button-arrow"></span></div>
+</section>
+</a> 
+
+
+
+
+
+
+
+
+
+<!--| section BGN |-->
+<aside class="section ad">
+<h2 class="pr-icon">おすすめ</h2>
+<div id="insertAdSpaceBeforeThis_0000000164108c3c" style="display:none"></div>
+<script type="text/javascript"> var cX = cX || {}; cX.callQueue = cX.callQueue || []; cX.callQueue.push(['insertAdSpace', { adSpaceId:'0000000164108c3c',width:'100%',height:0, renderTemplateUrl: 'https://cdn.cxpublic.com/mai-ad-render-pc-pickupText_2.html'} ]); </script>
+</aside>
+<!--| section END |--> 
+<div class="section ranking">
+<h1 class="ranking-title"><a href="/ranking/hourly/">アクセスランキング</a></h1>
+<ul class="inline-list">
+<li class="active"><a href="/ranking/hourly/">1時間</a></li>
+<li><a href="/ranking/daily/">1日</a></li>
+<li><a href="/ranking/7days/">1週間</a></li>
+<li><a href="/ranking/sns/">SNS</a></li>
+<li><a href="/ranking/movie/">動画</a></li>
+<li><a href="/ranking/graphs/">写真</a></li>
+</ul>
+<p class="small">毎時01分更新</p>
+<ol class="list-typeC ranking-list">
+	<li class="rank-1">
+        <h2 class="h2-wrap">
+		<a id="rank-r-1" href="https://mainichi.jp/articles/20200906/k00/00m/040/123000c">
+						<span class="midashi ">俳優の宮内淳さん死去　70歳　「太陽にほえろ！」のボン役</span>
+		</a>
+        </h2>
+	</li>
+	<li class="rank-2">
+        <h2 class="h2-wrap">
+		<a id="rank-r-2" href="https://mainichi.jp/articles/20200906/k00/00m/010/077000c">
+						<span class="midashi ">大阪都構想に賛成49.2％、反対39.6％　「説明十分でない」は71.8％</span>
+		</a>
+        </h2>
+	</li>
+	<li class="rank-3">
+        <h2 class="h2-wrap">
+		<a id="rank-r-3" href="https://mainichi.jp/articles/20200905/k00/00m/030/222000c">
+						<span class="midashi ">戦死の兵士を「負け犬」、傷病退役軍人を「見たくない」…「トランプ氏発言」報道が波紋</span>
+		</a>
+        </h2>
+	</li>
+	<li class="rank-4">
+        <h2 class="h2-wrap">
+		<a id="rank-r-4" href="https://mainichi.jp/articles/20200906/ddv/010/070/020000c">
+			<span class="keyword">松尾貴史のちょっと違和感</span>			<span class="midashi ">安倍首相辞任表明　責任追及せず、ねぎらう人たち</span>
+		</a>
+        </h2>
+	</li>
+	<li class="rank-5">
+        <h2 class="h2-wrap">
+		<a id="rank-r-5" href="https://mainichi.jp/articles/20200831/orc/00m/200/063000c">
+			<span class="keyword">ORICON NEWS</span>			<span class="midashi ">女優・階戸瑠李さん、急死　31歳　16日放送『半沢直樹』に出演</span>
+		</a>
+        </h2>
+	</li>
+</ol>
+
+
+<script type="text/javascript">
+function cxSendClickAccessRankBody(target) {
+  if(!target){return;}
+  cX.setSiteId('9222356687186286883');
+  cX.setEventAttributes({origin:'mai-web', persistedQueryId:'fead2bc65fbe64e10dbc2f536fe1f09ba4412432'});
+  cX.sendEvent('アクション', {アクション:'clickAccessRankBody',position:"rightColumn"});
+}
+function onClickEventRanking() {
+  try {
+    var event = event || window.event;
+    if (event) {
+      var target = event.target || event.srcElement;
+      for (var i = 0; (i < 10) && (typeof target !== 'undefined') && (target); i++) {
+        if (target.nodeType === 1 && (target.nodeName === 'a' || target.nodeName === 'A') && typeof target.href === 'string') {
+          if (target.id.indexOf("rank-r-") != -1) {
+            cxSendClickAccessRankBody(target);
+            break;
+          }
+        }
+        target = target.parentNode;
+      }
+    }
+  } catch (e) {}
+  return true;
+};
+window.addEventListener('mouseup',onClickEventRanking,false);
+</script>
+
+
+</div>
+<!--| section END |--> 
+<!--| section BGN |-->
+<div class="section" style="margin-bottom:32px">
+<h2>デジタル毎日イベント</h2>
+
+<ul class="list-bnr">
+  <li><a href="https://mainichi.jp/articles/20200902/hrc/00m/010/001000d?cx_fmt=200924event&cx_plc=bnr&cx_cls=top_pc"><img src="https://cdn.mainichi.jp/vol1/2020/09/03/20200903hrc00m010003000q/6.jpg?1" title="松尾貴史と毎日新聞記者の「ニッポンの違和感」"></a></li>
+</ul>
+
+
+</div>
+<!--| section END |-->
+ 
+
+<!--| sub-genre BGN |-->
+<section class="sub-genre-box">
+<h2 class="digitalplus"><a href="/digitalplus/">デジタルプラス</a><img src="//cdn.mainichi.jp/vol1/images/pc/icon-title-digitalplus.svg" onerror="this.src='//cdn.mainichi.jp/vol1/images/pc/icon-title-digitalplus.png';" alt=""><span>紙面連動記事</span></h2>
+<div class="box-gry">
+<ul class="list-typeA">
+        <li>
+        <a href="//mainichi.jp/articles/20200906/k00/00m/010/151000c" class="">
+                        大阪都構想　11月1日の投票「コロナ現状なら実施」48.2％、「収束後」35.0％を上回る　世論調査        </a>
+    </li>
+        <li>
+        <a href="//mainichi.jp/articles/20200905/k00/00m/040/267000c" class="icon_video">
+                        悠仁さま、14歳に　コロナでオンライン授業　専門家の説明も受け        </a>
+    </li>
+        <li>
+        <a href="//mainichi.jp/articles/20200905/dde/012/040/007000c" class="icon_plus">
+            <span class="keyword">ｅｙｅ</span>            北海道・胆振東部地震２年　若い姿、復興の星        </a>
+    </li>
+    </ul>
+ 
+</div>
+</section>
+<!--| sub-genre END |-->
+
+<!--| section BGN |-->
+<div class="section shimen">
+    <div class="header-box">
+        <ul class="inline-list">
+            <li class="link-btn paper"><a href="/viewer/">デジタル紙面</a></li>
+            <li class="link-btn list"><a href="/shimen/">記事一覧</a></li>
+        </ul>
+        <h2>朝夕刊</h2>
+    </div>
+    <div class="box-gry">
+        <ul>
+                                    <li class="shimen1">
+                <a href="http://viewer.mainichi.jp/es_hv/index_viewer.html?pkg=com.mainichi.papers.pc.html5&mcd=MTM&npd=20200907&pn=1" onclick="ga('send', 'event', 'viewer', 'click', 'l');">
+                    <span class="title">9月7日朝刊</span>
+                    <div class="thumb">
+                        <img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hrc00m010002000q/7.jpg?1" alt="">
+                    </div>
+                </a>
+            </li>
+                                    <li class="shimen2">
+                <a href="http://viewer-api.mainichi.jp/epaper/esRedirector?pkg=com.mainichi.papers.pc.html5&mcd=MTM&npd=20200906" onclick="ga('send', 'event', 'viewer', 'click', 'l');">
+                    <span class="title">9月6日朝刊</span>
+                    <div class="thumb">
+                        <img src="https://cdn.mainichi.jp/vol1/2020/09/06/20200906hrc00m010001000q/9.jpg?1 " alt="">
+                    </div>
+                </a>
+            </li>
+                        <li class="viewer">
+                <a href="/info/guidance/viewer/"><span>アプリでも配信</span></a>
+            </li>
+        </ul>
+    </div>
+    <div class="box-gry2">
+        <ul class="inline-list">
+            <li class="traffic"><a href="/traffic/">鉄道運行情報</a></li>
+            <li class="market"><a href="/market/">株・為替</a></li>
+            <li class="weather"><a href="/weather/">各地の天気</a></li>
+        </ul>
+    </div>
+</div>
+<!--| section END |--> 
+<p class="icon-info"><a href="/info/contents/#mark"><img src="//cdn.mainichi.jp/vol1/images/pc/icon-member.svg?d=1" onerror="this.src='//cdn.mainichi.jp/vol1/images/pc/icon-member.png?d=1';" alt="" title="">のマークについて</a></p>
+ 
+
+<!--| ad BGN |-->
+<aside class="ad">
+<!-- PC-top-rec2 -->
+<div id='PC-top-rec2'>
+<script>
+cX.callQueue.push(['invoke',function(){
+googletag.cmd.push(function() { googletag.display('PC-top-rec2'); });
+}]);
+</script>
+</div>
+ 
+</aside>
+<!--| ad END |-->
+
+<!--| section BGN |-->
+<div class="section ad">
+<div class="pr-icon h2-title">今週のおすすめ</div>
+<div id="insertAdSpaceBeforeThis_0000000164108d47" style="display:none"></div>
+<script type="text/javascript"> var cX = cX || {}; cX.callQueue = cX.callQueue || []; cX.callQueue.push(['insertAdSpace', { adSpaceId:'0000000164108d47',width:'100%',height:0, renderTemplateUrl: 'https://cdn.cxpublic.com/mai-ad-render-pc-osusumeThisWeek__2.html'} ]); </script> 
+</div>
+<!--| section END |-->
+ 
+ 
+
+<!--| ad BGN |-->
+<div class="section ad">
+<a href="https://mainichi.jp/allfor2020"><img src="//cdn.mainichi.jp/vol1/contents/olympic/tokyo2020/images/Olympic-PC-Sidebar-Banner.jpg?201806" alt="毎日新聞社は、東京2020大会のオフィシャルパートナーです" width="300"></a>
+</div>
+<!--| ad END |--> 
+
+
+<!--| section BGN |-->
+<div class="section">
+<h2>毎日新聞の関連サービス</h2>
+   
+    
+<ul class="list-typeA"><li><a href="https://mirailab.tech/" target="_blank" title="別ウインドウで開きます">毎日みらい創造ラボ</a></li>
+<li><a href="http://mainichi-athletepartners.jp/" target="_blank" title="別ウインドウで開きます">毎日アスリートパートナーズ</a></li>
+<li><a href="http://mainichimediacafe.jp/" target="_blank" title="別ウインドウで開きます">毎日メディアカフェ</a></li>
+<li><a href="http://www.newskentei.jp/" target="_blank" title="別ウインドウで開きます">ニュース時事能力検定</a></li>
+<li><a href="https://www.mainichi-hanbai.jp/tpoint/" target="_blank" title="別ウインドウで開きます">Tポイントサービス</a></li>
+<li><a href="http://mottainai.info/" target="_blank" title="別ウインドウで開きます">MOTTAINAIキャンペーン</a></li>
+<li><a href="http://premo.mainichi.co.jp/premo/shop/" target="_blank" title="別ウインドウで開きます">毎日プレミアムモール（通販）</a></li>
+<li><a href="https://maipaso.net/" target="_blank" title="別ウインドウで開きます">毎日パソコン入力コンクール</a></li>
+</ul>
+<ul class="list-bnr"><li><a href="https://weekly-economist.mainichi.jp/" target="_blank" title="別ウインドウで開きます"><img src="https://cdn.mainichi.jp/vol1/2018/10/01/20181001hrc00m020001000q/5.jpg?1" title="週刊エコノミスト Online"></a></li>
+</ul> 
+</div>
+<!--| section END |-->
+
+
+ 
+
+</div>
+<!--| sub END |-->
+
+
+
+</div>
+<!--| container END |-->
+
+<!--| contents-end BGN |-->
+<div class="contents-end">
+<div class="container">
+<ul>
+<li><a href="#top">ページの先頭へ戻る</a></li>
+</ul>
+</div>
+</div>
+<!--| contents-end END |-->
+
+
+<!--| footer BGN |-->
+<footer>
+
+<!--| nav BGN |-->
+<div class="nav">
+
+<div class="container col-set">
+
+<div class="col2">
+<dl>
+<dt>ニュース総合</dt>
+<dd>
+<ul class="inline-list">
+<li><a href="/" >総合</a></li>
+<li><a href="/flash/">速報</a></li>
+<li><a href="/shimen/">紙面掲載記事</a></li>
+<li><a href="/digitalplus/">デジタルプラス</a></li>
+<li><a href="/feature/special/">デジタル毎日スペシャル</a></li>
+<li><a href="/sunday/">サンデー毎日</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+
+<div class="col2">
+<dl>
+<dt>プレミアサイト</dt>
+<dd>
+<ul class="inline-list">
+<li><a href="/premier/politics">政治プレミア</a></li>
+<li><a href="/premier/business/">経済プレミア</a></li>
+<li><a href="/premier/health/">医療プレミア</a></li>
+<li><a href="/premier/tokutoku">トクトクプレミア</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+
+</div>
+
+</div>
+<!--||-->
+
+<!--| sitemap BGN |-->
+<div class="sitemap">
+
+<div class="container">
+
+<ul class="sitemap-list inline-list">
+<li>
+<dl><dt><a href="/shakai/">社会</a></dt>
+<dd>
+<ul>
+<li><a href="/incident/">事件・事故・裁判</a></li>
+<li><a href="/weather-report/">気象・地震</a></li>
+<li><a href="/topic/">話題</a></li>
+<li><a href="/koushitsu/">皇室</a></li>
+<li><a href="/fuhou/">訃報</a></li>
+<li><a href="/personnel-changes/">人事</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/seiji/">政治</a></dt>
+<dd>
+<ul>
+<li><a href="/politics/">政治一般</a></li>
+<li><a href="/senkyo/">選挙</a></li>
+<li><a href="https://senkyo.mainichi.jp/giin/">国会議員名鑑</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/biz/">経済</a></dt>
+<dd>
+<ul>
+<li><a href="/enterprise/">企業・産業</a></li>
+<li><a href="/economy/">経済政策・財政</a></li>
+<li><a href="/stock/">マーケット</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/world/">国際</a></dt>
+<dd>
+<ul>
+<li><a href="/asia-oceania/">アジア・オセアニア</a></li>
+<li><a href="/north-america/">北米</a></li>
+<li><a href="/europe/">欧州</a></li>
+<li><a href="/middle-east/">中東</a></li>
+<li><a href="/south-central-america/">中南米</a></li>
+<li><a href="/africa/">アフリカ</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/science/">サイエンス</a></dt>
+<dd>
+<ul>
+<li><a href="/medical/">医療</a></li>
+<li><a href="/technology/">科学・技術</a></li>
+<li><a href="/ecology/">環境</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/sports/">スポーツ</a></dt>
+<dd>
+<ul>
+<li><a href="/baseball/">野球</a></li>
+<li><a href="/koshien/">高校野球</a></li>
+<li><a href="/ama-baseball/">社会人野球</a></li>
+<li><a href="/soccer/">サッカー</a></li>
+<li><a href="/rugby/">ラグビー</a></li>
+<li><a href="/sportsspecial/">五輪</a></li>
+<li><a href="/sumo/">相撲</a></li>
+<li><a href="/tennis/">テニス</a></li>
+<li><a href="/golf/">ゴルフ</a></li>
+<li><a href="/keiba/">競馬</a></li>
+<li><a href="/athletics/">その他</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/opinion/">オピニオン</a></dt>
+<dd>
+<ul>
+<li><a href="/editorial/">社説</a></li>
+<li><a href="/yoroku/">余録</a></li>
+<li><a href="/kaisetsu/">解説</a></li>
+<li><a href="/columns/">コラム</a></li>
+<li><a href="/journalism/">毎日ジャーナリズム</a></li>
+<li><a href="/reporter/">スペシャルリポート</a></li>
+<li><a href="/hito/">ひと</a></li>
+<li><a href="/opinion-research/">世論調査</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/culture/">カルチャー</a></dt>
+<dd>
+<ul>
+<li><a href="/novel/">連載小説</a></li>
+<li><a href="/manga/">連載漫画</a></li>
+<li><a href="/geinou/">芸能</a></li>
+<li><a href="/shogi/">将棋</a></li>
+<li><a href="/igo/">囲碁</a></li>
+<li><a href="/art/">芸術・文化</a></li>
+<li><a href="/classic/">クラシックナビ</a></li>
+<li><a href="/cinema/">映画</a></li>
+<li><a href="/music/">音楽</a></li>
+<li><a href="/book/">本・書評</a></li>
+<li><a href="/senryu/">万能川柳</a></li>
+<li><a href="/kadan/">歌壇・俳壇</a></li>
+<li><a href="/sho/">書道</a></li>
+<li><a href="/norimai/">乗り物</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/life/">ライフ</a></dt>
+<dd>
+<ul>
+<li><a href="/woman/">おんなのしんぶん</a></li>
+<li><a href="/general/">ライフスタイル</a></li>
+<li><a href="/food/">食</a></li>
+<li><a href="/fashion/">ファッション</a></li>
+<li><a href="/job/">就職・転職</a></li>
+<li><a href="/housing/">住宅</a></li>
+<li><a href="/trip/">旅行</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/edu/">教育</a></dt>
+<dd>
+<ul>
+<li><a href="/exam/">受験</a></li>
+<li><a href="/maisho/">毎日小学生新聞</a></li>
+<li><a href="/maisho15/">１５歳のニュース</a></li>
+<li><a href="/univ/">＠大学</a></li>
+<li><a href="/vote18/">vote18</a></li>
+<li><a href="/weekly/">毎日ウィークリー</a></li>
+<li><a href="/wakaru/">ニュースがわかる</a></li>
+<li><a href="/campal/">キャンパる</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt><a href="/area/">地域</a></dt>
+<dd>
+<ul>
+<li><a href="/hokkaido/">大盛り北海道</a></li>
+<li><a href="/chubu/">いりゃあせ名古屋</a></li>
+<li><a href="/kansai/">めっちゃ関西</a></li>
+<li><a href="/seibu/">オッショイ！九州</a></li>
+<li><a href="/shuto/">首都圏版</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li>
+<dl><dt>写真・動画</dt>
+<dd>
+<ul>
+<li><a href="/photography/">MAINICHI PHOTOGRAPHY</a></li>
+<li><a href="https://video.mainichi.jp/">毎日動画</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+</ul>
+
+
+<dl class="sitemap-list2">
+<dt><a href="/social/">毎日新聞のアカウント</a></dt>
+<dd>
+<ul class="inline-list">
+<li class="fb btn-sns"><a href="https://www.facebook.com/mainichishimbun/" target="_blank" title="Facebookを別ウインドウで開きます"></a></li>
+<li class="tw btn-sns"><a href="/social/" title="twitter"></a></li>
+</ul>
+</dd>
+
+<dt><a href="/contents/person/07.html">毎日新聞のアプリ</a></dt>
+<dd>
+<p class="app-newspaper">デジタル紙面</p>
+<ul class="inline-list app">
+<li><a href="https://itunes.apple.com/jp/app/mei-ribyua/id726881477?mt=8" target="_blank" title="iTunesを別ウインドウで開きます">iOS</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=mainichi.jp.papers&hl=ja" target="_blank" title="Google Playを別ウインドウで開きます">Android</a></li>
+</ul>
+<p class="app-news">ニュースアプリ</p>
+<ul class="inline-list app">
+<li><a href="https://itunes.apple.com/jp/app/mei-ri-xin-wennyusu/id740514912?mt=8" target="_blank" title="iTunesを別ウインドウで開きます">iOS</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=mainichi.jp.appl&hl=ja" target="_blank" title="Google Playを別ウインドウで開きます">Android</a></li>
+</ul>
+</dd>
+
+<dt>索引・検索</dt>
+<dd>
+<ul>
+<li><a href="/search/">サイト内検索</a></li>
+<li><a href="/database/">記事データベース</a></li>
+</ul>
+</dd>
+
+<dt>媒体別リンク</dt>
+<dd>
+<ul>
+<li><a href="/english/">The Mainichi</a></li>
+<li><a href="/universalon/">ユニバーサロン</a></li>
+<li><a href="/sumamachi/">毎日まんがニュース</a></li>
+<li><a href="http://premo.mainichi.co.jp/premo/shop/" target="_blank" title="別ウインドウで開きます">毎日プレミアムモール<span class="small">（通販）</span></a></li>
+</ul>
+</dd>
+</dl>
+
+</div>
+
+</div>
+<!--||-->
+
+
+
+<!--| infomation |-->
+<div class="infomation">
+<div class="container">
+
+<p class="logo"><img src="//cdn.mainichi.jp/vol1/images/pc/logo-mainichi_w.svg" onerror="this.src='//cdn.mainichi.jp/vol1/images/pc/logo-mainichi_w-ie.png';" alt=""></p>
+
+<div class="col-set">
+
+<ul>
+<li><a href="https://www.mainichi.co.jp/" target="_blank" title="別ウインドウで開きます">毎日新聞社コーポレートサイト</a></li>
+<li><a href="https://www.mainichi.co.jp/company/" target="_blank" title="別ウインドウで開きます">会社案内</a></li>
+<li><a href="https://www.mainichi.co.jp/info/" target="_blank" title="別ウインドウで開きます">お知らせ</a></li>
+<li><a href="https://www.mainichi.co.jp/saiyou/" target="_blank" title="別ウインドウで開きます">採用情報</a></li>
+<li><a href="https://www.mainichi.co.jp/event/" target="_blank" title="別ウインドウで開きます">主催イベント</a></li>
+</ul>
+
+<dl>
+<dt>個人向け</dt>
+<dd>
+<ul>
+<li><a href="/info/" target="_blank">サービス総合案内</a></li>
+<li><a href="/info/plan/" target="_blank">デジタル毎日申し込み</a></li>
+<li><a href="/info/plan/takuhai/" target="_blank">新聞購読者向けプラン</a></li>
+<li><a href="https://form.mainichi.co.jp/annuncio/koudoku/form.html">新聞購読申し込み</a></li>
+<li><a href="/info/plan/magazine/" target="_blank">デジタル刊行物のご案内</a></li>
+<li><a href="/contribution/">読者投稿</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl>
+<dt>法人・教育機関向け</dt>
+<dd>
+<ul>
+<li><a href="/info/hojin/">デジタル毎日　法人プラン</a></li>
+<li><a href="/advertising/">デジタル広告ガイド</a></li>
+<li><a href="https://macs.mainichi.co.jp/" target="_blank" title="別ウインドウで開きます">新聞広告ガイド</a></li>
+<li><a href="/contents/houjin/">ニュース配信サービス</a></li>
+<li><a href="https://photobank.mainichi.co.jp/" target="_blank" title="別ウインドウで開きます">毎日フォトバンク</a></li>
+<li><a href="/contents/edu/maisaku/">毎索</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl>
+<dt>関連サイト</dt>
+<dd>
+<ul>
+<li><a href="http://www.sponichi.co.jp/" target="_blank" title="別ウインドウで開きます">スポニチアネックス</a></li>
+<li><a href="/contents/person/03.html">メモリーズ新聞</a></li>
+<li><a href="http://www.meijinsen.jp/" target="_blank" title="別ウインドウで開きます">名人戦棋譜速報</a></li>
+<li><a href="http://www.mainichi.co.jp/igo/" target="_blank" title="別ウインドウで開きます">毎日が囲碁道場</a></li>
+<li><a href="http://mantan-web.jp/" target="_blank" title="別ウインドウで開きます">MANTANWEB</a></li>
+<li><a href="http://mainichikirei.jp/" target="_blank" title="別ウインドウで開きます">毎日キレイ</a></li>
+<li><a href="http://runpit.jp/" target="_blank" title="別ウインドウで開きます">Run Pit</a></li>
+<li><a href="http://nippouren.jp/" target="_blank" title="別ウインドウで開きます">日本報道写真連盟</a></li>
+</ul>
+</dd>
+</dl>
+
+</div>
+
+<ul class="inline-list">
+<li><a href="/info/policy/">サイトポリシー</a></li>
+<li><a href="/info/kiyaku/">利用規約</a></li>
+<li><a href="/info/etc/copyright.html">著作権</a></li>
+<li><a href="/info/etc/privacy.html">個人情報</a></li>
+<li><a href="/info/kiyaku/mid/tokutei.html">特定商取引法に基づく表示</a></li>
+<li><a href="/help/">ご意見・お問い合わせ（FAQなど）</a></li>
+<li><a href="/information/">リリース</a></li>
+<li><a href="/staffreport/">デジ毎ブログ</a></li>
+</ul>
+
+
+
+<p>毎日新聞のニュースサイトに掲載の記事・写真・図表など無断転載を禁止します。著作権は毎日新聞社またはその情報提供者に属します。<br>
+画像データは（株）フォーカスシステムズの電子透かし「acuagraphy」により著作権情報を確認できるようになっています。</p>
+<p>Copyright THE MAINICHI NEWSPAPERS. All rights reserved.</p>
+
+</div>
+</div>
+
+</footer>
+<!--| footer END |-->
+<!-- cXense CCE #3472 -->
+<div id="cxSubscMsg"></div>
+<div id="cxGdprMsg"></div>
+<div id="cxPageBottomBnr"></div>
+<div id="cxPageModalBnr"></div>
+
+<!--リスティング広告計測用 #3705 -->
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=LAFKJA6";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=LAFKJA6" width="1" height="1" title="yjtag"></iframe>
+</noscript>
+<!--| 共通_CSS-JS - START |-->
+<script src="//cdn.mainichi.jp/vol1/js/pc/script.js"></script>
+<script src="//cdn.mainichi.jp/vol1/js/mode-select.js"></script>
+<script src="//cdn.mainichi.jp/vol1/js/pc/script-photoSlide.js"></script>
+<!--| 共通_CSS-JS - END |-->
+</body>
+</html>
